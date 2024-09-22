@@ -1,0 +1,1 @@
+Many Beginners Don't know the where to start basic coding. This repository will help you Understand where the understanding of how the code works begins just go through it to know what needs to be known
