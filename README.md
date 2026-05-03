@@ -1,1 +1,2 @@
 Many Beginners Don't know where to start basic coding. This repository will help you Understand how code gets Compiled where the pointer moves  understanding of how the code works begins with each string just go through it to know what needs to be known
+The Codes For Each Language Are Present in Each Respective Directory Based on the Language.
